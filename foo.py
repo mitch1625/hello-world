@@ -1,3 +1,14 @@
-print("i updated and removed code")
-#some lines
+print('keep practign pull ')
+#code
+#code
+#Ecode
+#code#code
+#code
+#Ecode
+#code#code
+#code
+#Ecode
+#code#code
+#code
+#Ecode
 #code
